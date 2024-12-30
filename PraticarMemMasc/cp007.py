@@ -27,5 +27,12 @@ print(type(sets))
 list = [1,2,3,4,5]
 print(type(list))
 
+tuple = (1,2,3,4,5)
+print(type(tuple))
 
+dictionary = {'a':1,'b':2,'c':3,'d':4,'e':5}
+print(type(dictionary))
 
+print(dictionary.keys())
+print(dictionary.values())
+print(dictionary['d'])
