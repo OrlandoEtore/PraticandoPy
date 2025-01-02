@@ -20,7 +20,7 @@ c = a + b
 print(a+b)
 print(c)
 print(c.upper())
-
+print(c.upper())
 
 # Expressaoes
 
