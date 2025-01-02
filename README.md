@@ -1,4 +1,5 @@
 Praticando Py
+Com a ideia que Fabio Akita comentou
 
 cp001✅
 cp002✅
