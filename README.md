@@ -1,5 +1,5 @@
 Praticando Py
-Com a ideia que Fabio Akita comentou
+Com a ideia que Fabio Akita comentou e praticar
 
 cp001✅
 cp002✅
