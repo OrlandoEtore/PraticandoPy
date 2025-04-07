@@ -1,6 +1,6 @@
 Praticando Py
 Com a ideia que Fabio Akita comentou e praticar
-
+game over
 cp001✅
 cp002✅
 cp003✅
